@@ -9,7 +9,7 @@ MyDemo
 ****
 
 ## 目录
- * [上传,更新到gitHub](#push github)
+ * [上传,更新到gitHub](#上传,更新到gitHub)
  * [待续](#待续)
 
 
