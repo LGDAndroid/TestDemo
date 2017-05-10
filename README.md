@@ -67,7 +67,7 @@ ___
     祝您，早上好，中午好，下午好，晚安
 
 ##### 语法2
-使用一对各三个的反引号：(tab键)
+使用一对各三个的反引号:
 ```
 欢迎到访
 我是Android码农
@@ -112,6 +112,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |---|---|----
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 |2|`![][foryou]`|![][foryou]
+|3|`![本地图片](http://www.baidu.com/img/bdlogo.gif "百度logo"))`|![本地图片](https://github.com/LGDAndroid/TestDemo/tree/master/app/src/main/res/mipmap-hdpi/ic_launcher.png "本地图片")
 
 注意例2的写法使用了**URL标识符**的形式，在[链接](#链接)一节有介绍。
 >在文末有foryou的定义：
