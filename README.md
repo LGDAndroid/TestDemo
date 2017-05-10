@@ -112,9 +112,10 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |---|---|----
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 |2|`![][foryou]`|![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
-|3|`![本地图片](http://www.baidu.com/img/bdlogo.gif "本地图片"))`|![本地图片](https://github.com/LGDAndroid/TestDemo/raw/master/art/ic_launcher.png)
+|3|`![本地图片1](https://github.com/LGDAndroid/TestDemo/raw/master/art/ic_launcher.png "本地图片"))`|![本地图片](https://github.com/LGDAndroid/TestDemo/raw/master/art/ic_launcher.png)
+|4|`![本地图片2](art/ic_launcher.png)`|![](art/ic_launcher.png)
 
-<img src="art/ic_launcher.png" width=100/><img src="art/ic_launcher.png" width=100/>
+<img src="art/ic_launcher.png" width=50 hight = 50/><img src="art/ic_launcher.png" width=100/>
 <img src="art/ic_launcher.png" width=100/>
 
 
