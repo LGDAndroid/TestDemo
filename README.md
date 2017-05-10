@@ -9,7 +9,7 @@ MyDemo
 ****
 
 ## 目录
- * [Markdown语法](#横线)
+ * [Markdown语法](#markdown语法)
      + 标题
      + 横线
      + 文本
@@ -21,7 +21,7 @@ MyDemo
      + 代码高亮
      + 表格
      + diff语法
- * [上传,更新到gitHub](#上传,更新到gitHub)
+ * [上传,更新到gitHub](#上传,更新到github)
      * 上传
      * 更新
  * [待续](#待续)
@@ -134,7 +134,7 @@ https://github.com/LGDAndroid/TestDemo/raw/master/art/ic_launcher.png
 
 
 ### 锚点
-其实呢，每一个标题都是一个锚点，和HTML的锚点（`#`）类似，比如我们
+其实呢，每一个标题都是一个锚点，和HTML的锚点（`#`）类似，用于目录跳转,比如
 
 |语法|效果|
 |---|---|
