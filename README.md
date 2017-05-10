@@ -9,7 +9,7 @@ MyDemo
 ****
 
 ## 目录
- * [Markdown语法](#Markdown语法)
+ * [Markdown语法](#横线)
      + 标题
      + 横线
      + 文本
