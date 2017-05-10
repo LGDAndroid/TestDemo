@@ -15,12 +15,10 @@ MyDemo
      + 文本
      + 图片
      + 链接
-     + 列表
      + 块引用
      + 表格
      + 代码高亮
      + 表格
-     + diff语法
  * [上传,更新到gitHub](#上传,更新到github)
      * 上传
      * 更新
@@ -140,11 +138,55 @@ https://github.com/LGDAndroid/TestDemo/raw/master/art/ic_launcher.png
 |---|---|
 |`[回到顶部](#readme)`|[回到顶部](#readme)|
 
+> 不过要注意，标题中的英文字母都被转化为`**小写字母**`了。
 
+### 块引用
 
+> 数据结构
+>> 树
+>>> 二叉树
+>>>> 平衡二叉树
+>>>>> 满二叉树
 
+代码高亮
+----------
+在三个反引号后面加上编程语言的名字，另起一行开始写代码，最后一行再加上三个反引号。
+```Java
+public static void main(String[]args){} //Java
+```
+```c
+int main(int argc, char *argv[]) //C
+```
+```Bash
+echo "hello GitHub" #Bash
+```
+```javascript
+document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
+```
+```cpp
+string &operator+(const string& A,const string& B) //cpp
+```
+表格
+--------
 
+表头1  | 表头2|
+--------- | --------|
+表格单元  | 表格单元 |
+表格单元  | 表格单元 |
 
+| 表头1  | 表头2|
+| ---------- | -----------|
+| 表格单元   | 表格单元   |
+| 表格单元   | 表格单元   |
+
+### 对齐
+表格可以指定对齐方式
+
+| 左对齐 | 居中  | 右对齐 |
+| :------------ |:---------------:| -----:|
+| **col 3 is**      | `some wordy text` | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
 
 
