@@ -20,7 +20,6 @@ MyDemo
      + 表格
      + 代码高亮
      + 表格
-     + 表情
      + diff语法
  * [上传,更新到gitHub](#上传,更新到gitHub)
      * 上传
@@ -123,9 +122,13 @@ https://github.com/LGDAndroid/TestDemo/raw/master/art/ic_launcher.png
 
 |#|语法|效果|
 |---|----|-----|
-|1|`[我的博客](http://blog.csdn.net/sl_354 "悬停显示")`|[我的博客](http://blog.csdn.net/sl_354)|
+|1|`[我的博客](http://blog.csdn.net/sl_354)`|[我的博客](http://blog.csdn.net/sl_354)|
 
-
+#### 链接本仓库里的URL
+|语法|效果|
+|----|-----|
+|`[我的简介](/example/profile.md)`|[我的简介](/example/profile.md)|
+|`[Book](./TestDemo)`|[TestDemo](/TestDemo)|
 
 
 
