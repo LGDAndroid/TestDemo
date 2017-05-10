@@ -112,9 +112,11 @@ https://github.com/LGDAndroid/TestDemo/raw/master/art/ic_launcher.png
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 |2|`![本地图片1](https://github.com/LGDAndroid/TestDemo/raw/master/art/ic_launcher.png "本地图片"))`|![本地图片](https://github.com/LGDAndroid/TestDemo/raw/master/art/ic_launcher.png)
 |3|`![本地图片2](art/ic_launcher.png)`|![](art/ic_launcher.png)
-
+```
+这个也是显示本地图片的一种方法
 <img src="art/ic_launcher.png" width=50 hight = 50/><img src="art/ic_launcher.png" width=100/>
 <img src="art/ic_launcher.png" width=100/>
+```
 
 ### 链接
 
@@ -127,8 +129,8 @@ https://github.com/LGDAndroid/TestDemo/raw/master/art/ic_launcher.png
 #### 链接本仓库里的URL
 |语法|效果|
 |----|-----|
-|`[我的简介](/example/profile.md)`|[我的简介](/example/profile.md)|
-|`[Book](./TestDemo)`|[TestDemo](/TestDemo)|
+|`[README](README.md)`|[README.md](/README.md)|
+|`[TestDemo](./TestDemo)`|[TestDemo](/TestDemo)|
 
 
 
