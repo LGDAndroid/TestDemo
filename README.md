@@ -130,6 +130,7 @@ https://github.com/LGDAndroid/TestDemo/raw/master/art/ic_launcher.png
 |语法|效果|
 |----|-----|
 |`[README](README.md)`|[README.md](/README.md)|
+|`[本地图片](/art/ic_launcher.png)`|[本地图片](/art/ic_launcher.png)|
 |`[TestDemo](./TestDemo)`|[TestDemo](/TestDemo)|
 
 
