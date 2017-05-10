@@ -112,7 +112,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |---|---|----
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 |2|`![][foryou]`|![][foryou]
-|3|`![本地图片](http://www.baidu.com/img/bdlogo.gif "百度logo"))`|![本地图片](https://github.com/LGDAndroid/TestDemo/tree/master/app/src/main/res/mipmap-hdpi/ic_launcher.png "本地图片")
+|3|`![本地图片](http://www.baidu.com/img/bdlogo.gif "本地图片"))`|![本地图片](https://github.com/LGDAndroid/TestDemo/tree/master/app/src/main/res/mipmap-hdpi/ic_launcher.png "本地图片")
 
 注意例2的写法使用了**URL标识符**的形式，在[链接](#链接)一节有介绍。
 >在文末有foryou的定义：
@@ -120,7 +120,26 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 [foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ```
 
+```java
+public class TextItem {
 
+    @NonNull public String text;
+
+    public TextItem(@NonNull final String text) {
+        this.text = text;
+    }
+}
+```
+```
+public class TextItem {
+
+    @NonNull public String text;
+
+    public TextItem(@NonNull final String text) {
+        this.text = text;
+    }
+}
+```
 
 
 
