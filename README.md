@@ -114,9 +114,9 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |2|`![][foryou]`|![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
 |3|`![本地图片](http://www.baidu.com/img/bdlogo.gif "本地图片"))`|![本地图片](https://github.com/LGDAndroid/TestDemo/art/ic_launcher.png)
 
+<img src="art/ic_launcher.png" width=100/><img src="art/ic_launcher.png" width=100/>
 <img src="art/ic_launcher.png" width=100/>
-<img src="art/ic_launcher.png" width=100/>
-<img src="art/ic_launcher.png" width=100/>
+
 
 
 
